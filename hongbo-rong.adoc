@@ -1,0 +1,14 @@
+Your Full Name: Hongbo Rong
+
+Degree [BS,MS,Ph.D.]:  Postdoc
+
+Start Year: 2000
+
+End Year: 2005
+
+Your Current Role: Researcher at Intel
+
+Your Memory:
+
+image::./images/Sunflower.png[Sunflower]
+
